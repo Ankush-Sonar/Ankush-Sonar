@@ -57,11 +57,6 @@
 
 ---
 
-## 🏆 Badges & Streaks  
-![Streak](https://streak-stats.demolab.com?user=ankush-sonar&theme=radical)  
-
----
-
 ## 🎯 Current Focus  
 
 - 🧩 Sharpening problem-solving skills by solving **LeetCode challenges daily**  
