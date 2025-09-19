@@ -42,13 +42,16 @@
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
+
 ---
+
 <h3>Summary</h3>
 
 <p>✨Results-driven Data Analyst & Data Engineer </p>
 <p>✨Skilled in transforming raw data into actionable insights and scalable solutions.  </p>
 <p>✨Proficient in data modeling, ETL pipelines, and interactive visualizations to support business decisions.  </p>
 <p>✨Strong expertise in **Python, SQL, and BI tools** with hands-on experience in databases and cloud integration. </p> 
+
 ---
 
 ## 📈 GitHub Stats  
